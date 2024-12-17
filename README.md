@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sanjaymahato7/sanjaymahato7/blob/main/Welcome%20To%20Our%20PHOTO.png)
 
 <h1 align="center">Hi 👋, I'm Sanjay Mahato</h1>
 <h3 align="center">A passionate frontend & backend developer from Nepal</h3>
