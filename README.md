@@ -1,12 +1,12 @@
 ![logo](https://github.com/sanjaymahato7/sanjaymahato7/blob/main/Welcome%20To%20Our%20PHOTO.png)
 
 <h1 align="center">Hi 👋, I'm Sanjay Mahato</h1>
-<h3 align="center">A passionate Frontend & Backend Developer from Nepal</h3>
+<h3 align="center">Full-Stack Developer | Creating modern and user-friendly web applications</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaymahato7&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaymahato7" /> </p>
 
-- 🌱 I’m currently learning **Nodejs(Express),React,js,MongoDB, C++, Java**
+- 🌱 I’m currently learning **Nodejs(Express),React.js,MongoDB, C++, Java**
 
 - 👨‍💻 All of my projects are available at [https://www.sanjaymahato123.com.np/](https://www.sanjaymahato123.com.np/)
 
